@@ -1,5 +1,5 @@
 # mosquito-3d
-Duke Mathematical Biology Workshop 2015: Modeling population dynamics of the malaria mosquito under a sex ratio distortion system
+# Duke Mathematical Biology Workshop 2015: Modeling population dynamics of the malaria mosquito under a sex ratio distortion system
 
 Theoretical evolutionary biologists have hypothesized that inducing a male biased reproductive sex ratio in mosquitoes may be an effective way of controlling mosquito populations. By introducing transgenic male mosquitoes that produce predominantly male offspring into the wild mosquito population, one can effectively distort the mosquito reproductive sex ratio such that there will be fewer females in subsequent generations to reproduce, hence resulting in the eradication of the mosquito population. Since the malaria parasite is transmitted only by pregnant female mosquitoes, it is possible to reduce the incidence of malaria by reducing the population of female mosquitoes. 
 
